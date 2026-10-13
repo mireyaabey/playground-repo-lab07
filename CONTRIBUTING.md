@@ -4,6 +4,8 @@ Work through these on **your fork**, in your own clone. Each one is small —
 this is about practicing the fork → edit → commit → push loop, not about
 writing a lot of new content.
 
+`## Getting Started
+
 - [ ] **Fix the typo.** Somewhere in `README.md` there's a misspelled word.
       Find it and fix it.
 - [ ] **Fix the broken link.** The README links to `CONTRIBUTING.md` but gets
